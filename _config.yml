@@ -1,0 +1,14 @@
+layout_spectrum: 0.7702541318722069
+typography_spectrum: 0.8229006316978484
+color:
+  brandStrength: 0.9408826110884547
+  lightness: 0.1520201324019581
+  saturation: 0.9641196343582124
+  rhythmicContrast: 0.969067252241075
+  brandColors:
+    - '#FFFFFF'
+    - '#434750'
+    - '#181818'
+    - '#5C636D'
+    - '#DADADC'
+name: BerlinOstTimes
