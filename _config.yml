@@ -1,4 +1,3 @@
-layout_spectrum: 0.7702541318722069
 typography_spectrum: 0.8229006316978484
 color:
   brandStrength: 0.9408826110884547
@@ -6,9 +5,11 @@ color:
   saturation: 0.9641196343582124
   rhythmicContrast: 0.969067252241075
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FFFFFF'
+    - '#434750'
+    - '#181818'
+    - '#5C636D'
+    - '#DADADC'
+layout_spectrum: 0.7702541318722069
 name: BerlinOstTimes
+title: 'Handmade Power Stone '
