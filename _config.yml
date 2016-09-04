@@ -1,4 +1,6 @@
 typography_spectrum: 0.8229006316978484
+content_rating:
+  adult: false
 color:
   brandStrength: 0.9408826110884547
   lightness: 0.1520201324019581
@@ -11,6 +13,11 @@ color:
     - '#5C636D'
     - '#DADADC'
 layout_spectrum: 0.7702541318722069
+author:
+  name: Kanako Kusunoki
+  email: kanaleny@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a68f4f4-f968-48d9-af66-e58fc72acde5.png
 name: BerlinOstTimes
 title: 'Handmade Power Stone '
 description: Berlin
